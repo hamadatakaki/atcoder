@@ -1,7 +1,7 @@
 # AtCoderローカル実行環境 with Docker
 
 ## 対応言語(2019/03/11)
-* golang:latest
+* golang:1.6
 
 ## setup
 ```
