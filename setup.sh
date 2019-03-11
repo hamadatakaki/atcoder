@@ -1,0 +1,1 @@
+export AC_ROOT=$(pwd)
